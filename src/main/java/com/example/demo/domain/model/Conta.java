@@ -8,7 +8,6 @@ public class Conta {
     private Long agencia;
     private Long digitoAgencia;
     private BigDecimal saldo;
-
     private String titular;
     private String cpf;
 
